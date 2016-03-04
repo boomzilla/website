@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Garb</title>
+	</head>
+	<body>
+	  <img src="molly.jpg">
+		<h3>Name: Garbhan "Molly" Cearbhall Xiang Wu</h3>
+		<h3>Age: 29</h3>
+		<h3>Gender ID: Primarily Male</h3>
+		<h3>present morph: female Bouncer</h3>
+		<h3>Motivations: +Overdoing it, -Authority Figures, +Family</h3>
+		<h3>Social Networks: @-rep 40, E-rep 30, G-rep 60</h3>
+		<h3>History/Details</h3>
+		<p>
+			Garb was born in a Luna slum on the outskirts of New Mumbai, was quickly recruited as a spotter and numbers runner for local street gangs. Contracted out to Direct Action when he turned 17 and spent two years Earth side. Experiencing the lead up to the Fall soured him on 'service' and 'obeying orders'.</p>
+
+<p>With combat skills and no direction he fell back on old contacts and shifted to the adventurous and lucrative profession of space piracy. Five years of an exciting career as a pirate ended when his fast boat was damaged by a point defense system and set adrift "as a lession". Several months alone before rescue by salvagers has left him sensitive to isolation. On the plus side, the modified habitat life boat has never felt more like home.</p>
+
+<p>Now Garb is self employed, working as a hired gun and captain of "The Ingenious Gentleman". Extensive remodeling of the habitat lifeboat has cut crew capacity down to 20 but brought much closer in design to a courier. While most legitimate folks have trouble trusting an ex-pirate some people appreciate his specializations in anti-boarding procedures and shipping routes.
+		</p>
+
+<!--BEGIN SOCIAL NETWORKING-->
+	<h2>Favors tracker</h2>
+	<ul>
+		<li>LEVEL 2 g-Rep, +48 days, to get intorduction to Yves Holiday</li>
+		<li>LEVEL 5 @-REP, +48 days, to acqurie a neo-Neanderthal morph</li>
+	</ul>
+<!--END SOCIAL NETWORKING-->
+
+		<p><a href="./">back to campaign home</a></p>
+	</body>
+</html>        

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Arkos</title>
+	</head>
+	<body>
+	  <img src="../tach.png">
+		<h3>Name: Arkos</h3>
+		<h3>Age: ?</h3>
+		<h3>Gender ID: Male</h3>
+		<h3>present morph: Arachnikoma</h3>
+		<h3>Motivations: +Explosions, +Tech Advancements, +Wealth</h3>
+		<h3>Social Networks: ?</h3>
+		<h3>History/Details</h3>
+		<p>
+			a former covert operator and investigator
+		</p>
+
+<!--BEGIN SOCIAL NETWORKING-->
+	<h2>Favors tracker</h2>
+	<ul>
+	</ul>
+<!--END SOCIAL NETWORKING-->
+
+		<p><a href="./">back to campaign home</a></p>
+	</body>
+</html>        

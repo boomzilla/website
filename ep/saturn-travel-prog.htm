@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		 <!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+		<!-- jQuery library -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<!-- Latest compiled JavaScript -->
+		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>		<meta charset="UTF-8">
+		<title>Saturn travel times (programmatically-generated!)</title>
+	</head>
+	<body>
+		<!--<script src="sat_time.js"></script>-->
+
+		<div class="container">
+			<h2>Saturn system travel times!</h2>
+			<p><strong>origin</strong></p>
+		  <div class="dropdown">
+			<button class="btn btn-primary dropdown-toggle" id="menu1" type="button" data-toggle="dropdown">Dropdown Example
+			<span class="caret"></span></button>
+			<ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+			  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Saturn cloudtops</a></li>
+			  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">CSS</a></li>
+			  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">JavaScript</a></li>
+			  <li role="presentation" class="divider"></li>
+			  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">About Us</a></li>    
+			</ul>
+		  </div>
+		</div>
+
+		<script>
+			$(".dropdown").on("show.bs.dropdown", function(event){
+    			var x = $(event.relatedTarget).text(); // Get the text of the element
+    			//alert(x);
+			});
+		</script>
+		<p><a href="saturn-ep.html">back to Saturn campaign</a></p>
+	</body>
+</html>     

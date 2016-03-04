@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>game summary for 2016, Feb 11</title>
+	<link rel="stylesheet" href="gamesummary.css" type="text/css" />
+  </head>
+  <body>
+    <h2>game summary for 2016, Feb 11</h2>
+	<hr/>
+	<h3>Text Formatting Key:</h3>
+	<p><strong>generally important info</strong><br/>
+	<font color="red">(possible) major NPC</font><br/>
+	<font color="green">minor/incidental NPC</font></p>
+	<hr/>
+	<p>
+		Following the successful salvage and rescue of the "Nebraska on Fire", we cleaned up the ship (ejecting the rec room, galley, and a cargo module that contained exurgent infection), renamed the ship the "Burning Itch", and started an extropian business, the "Burning Itch, LLC".
+	</p>
+	<p>
+		<strong>About a month later, the Burning Itch was crewed by</strong>:
+		<ul>
+			<li><strong>Molly</strong> (aka Garb), an ex-pirate, acting as captain, pilot, and ship maintenance/engineering (since, really, we don't have any other sapients who know how to maintain a spacecraft)</li>
+			<li><strong>Garb (fork of Molly)</strong>, living as an informorph in the Burning Itch's computer</li>
+			<li><strong>Feron</strong>, an extropian info-broker, running the business and "face" ascpects of the LLC</li>
+			<li><strong>Dr. Tom&#225;&scaron;</strong>, a scum doctor and scientist, who wants to set up a lab and modding clinic in the ship</li>
+			<li><major_npc>Huginn and Muginn</major_npc>, an emergent/gestalt AGI, living in the ships' mesh, but wanting an actual morph</li>
+			<li><minor_npc>various AI bots</minor_npc>, emboddied in mechanic robots, responsible for helping Molly keep up the "Burning Itch"</li>
+		</ul>
+	</p>
+	<p>
+		The company was contacted by one <major_npc>Captain Chadwich</major_npc> of the "Silver Corgi", a freighter that operated between Saturn and Neptune. Chadwick offered us 10,000 credits, and a rep boost, in exchage that we tracked down the <strong>"Grey Wolves" a gang of Turkish ringers operating out of Kronos Cluster, suspected of smuggling TITAN tech</strong>. We also recieved two associates of Captain Chadwich:
+		<ul>
+			<li><strong>Martin</strong>, a former covert operator and investigator</li>
+			<li><strong>Tai</strong>, a Titanian medic</li>
+		</ul>
+	</p>
+
+	<hr/>
+
+	<p>
+		<img src="rhea.jpg" title="Rhea" align="right"> We departed from the "Silver Corgi" and made a burn to "Kronos Cluster", a large space station (population: 950,000) in the form of a cluster (the violet-colored exterior of the station gave it the appearance of a massive grape cluster), orbiting the unremarkable ice moon of Rhea. Kronos generally had a reputation of being a pirate town, a hive of scum and villainy. Arriving at the docks, we were met by representatives of the "Kronos Port Authority", the quasi-government of the station, but really more of a front for a gang of Ultimate mercs. Entering the port, we emerged into a bustling zone both in the mesh (our entopics getting bombarded by spam), and in the flesh (with merchants hawking wares and experiences that would often be illegal in a more civilized station). Some Thai ringers argued with South African extropians over an improbably huge shipment of gold, a few octopuses offered... something (we weren't quite sure, since they were speaking Hindi and Japanese, and we didn't overhear enough to translate), while evangelists of the Ribosome Choir, guarded by an annoyed-looking Ultimate, preached their ideology to passers-by.
+	</p>
+	<p>
+		Although the Ultimates kept the entry-point/port-area mostly safe, the rest of the station was a patchwork of competing armed gangs and militias. We geared up in armor and guns, but also did a bit of research into finding a local guard/guide. We came up with the ID, "<major_npc>Bluetooth</major_npc>", an anarchist fighter-type, sleeved into a Reaper morph, and appearing in AR as a stoic, beardy, 19th Century Russian officer. Martin was able to do some networking on behalf of the entire party, and was able to "purchse" the assistance of Bluetooth for a moderate favor.
+	</p>
+	<p>
+		After gawking at the port for a bit, we decided to go with Bluetooth to the relative safety of an anarchist neighborhood.
+	</p>
+	<p>
+		We began to do some more research on our quarry, both via mesh queries, and asking around our social networks. The "Grey Wolves" are a sort of extended family, an authentic clade of Turkish reclaimers (the fact that there were reclaimers out by Saturn, rather than Luna, was a bit odd). They were strongly into privacy, and their metadata was difficult to come by. Their desire for privacy was aided by the setup at Kronos: since the mesh on Kronos was as patchwork and conflicting as the gangs who controlled whatever area's infrastructure, getting access to a surveilence spime anywhere on the station (that hadn't been wiped of spimes in the first place) required a subscription, or hacking. We were able to pick up two names, however, "<major_npc>Timothy Hatun</major_npc>" and "<major_npc>Hashtag Bakur</major_npc>" Timothy was know to be attempting to sell "Fall era nanotech artifacts" which Feron knew was slang for illegal TITAN nanoswarms. Hashtag was identified as a former psychosurgeon. Also, an anarchist muchracking journalist, "<minor_npc>Calvin Gregory</minor_npc>", had been trying to investigate the Grey Wolves.
+	</p>
+	<p>
+		<strong>INCOMPLTE</strong>
+		We tried searching online for anyone named "Commodore Face". We didn't find anyone with that ID, but we <em>did</em> find one "<minor_npc>Captain Fuckface</minor_npc>", a scum fixer and drug dealer, who operated out of the ice-harvesting ship, "Glacier Spunk".
+	</p>
+	<p>
+		At this point, Feron was contacted by an old friend, "<minor_npc>Vigo Talisman</minor_npc>", an extropian dealer in illegal goods and services. Vigo was sleeved into a female Futura morph, which Fernon complimented the looks of. Feron was able to convince Vigo to provide some more info on the Grey Wolves. Vigo disclosed that Timothy Hatun had contracted a security company, "Errant Star". Errant star's operational force consisted of about 20 security pods, sleeved primarily by Farsi-speaking indents. Errant Star was protecting a total of six people, the names of whom Vigo also provided.
+	</p>
+	<p>
+		Feron asked Vigo to do him a favor: get a seat at the "buyer's table". Vigo agreed, and also provided the IDs of three other potential buyers:
+		<ul>
+			<li>an exhuman named "<minor_npc>Allseer</minor_npc>"</li>
+			<li>an extropian named <minor_npc>Madeline Madus</minor_npc> (whom Feron was familiar with)</li>
+			<li>a "boring, ordinary" Jovian named <minor_npc>Klaus Rodrigez-Smith</minor_npc></li>
+		</ul>
+	</p> 
+	<p>party recieved:
+		<ul>
+			<li>4 Rez per PC</li>
+		</ul>
+	</p>
+	<p><strong>+48 days post-start</strong></p>
+	<p><a href="./">back to campaign home</a></p>
+  </body>
+</html>

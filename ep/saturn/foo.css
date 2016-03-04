@@ -1,0 +1,25 @@
+body{
+background-image: url("sat.jpg");
+background-size:100%;
+background-repeat:no-repeat;
+background-color:#000000;
+font-family:Georgia, serif;
+font-size: 16px;
+color:#d5ce64;
+}
+
+.header{
+top:75%;
+}
+
+.footer{
+background-color:#000000;
+}
+
+a:link{
+color:#d5ce64
+}
+
+a:visited{
+color:#d5ce64
+}

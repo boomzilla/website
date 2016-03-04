@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>EP campaigns</title>
+	<link rel="stylesheet" href="ep.css" type="text/css" />
+	<link rel="shortcut icon" href="eclipse_favicon.ico" />
+  </head>
+  <body>
+	<div id="headerimage">
+		<img src="bmz.jpg" title="original image by David James Paquin">
+	</div>
+	<div class="mainbody">
+		<div id="navcontainer"> 
+			<ul id="navlist"> 
+				<li><a href=".">EP root</a></li> 
+				<li><a href="ep-campaigns.html">campaigns</a></li> 
+				<li><a href="spaceships.html">spacecraft stuff</a></li> 
+				<li><a href="art.html">art + inspiration</a></li>
+				<li><a href="ep-setting.html">setting stuff</a></li>
+				<li><a href="ep-credit.html">+EP REP</a></li>
+				<li><a href="ep-misc.html">miscellaneous</a></li>
+			</ul> 
+		</div>
+		<div id="bodyelem">
+			<h3><a href="innersys">Inner System heist</a></h3>
+			<h3><a href="saturn">Saturn EP campaign</a></h3>
+			<h3><a href="indent.html">indent campaign</a></h3>
+			<h3><a href="pebble.html"><em>Pebble in the Sky</em> scum swarm campaign</a></h3>
+			<p><a href=".">back to EP root</a></p>
+		</div>
+	</div>
+  </body>
+</html> 

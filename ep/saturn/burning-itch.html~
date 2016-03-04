@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Burning Itch</title>
+
+  </head>
+  <body>
+    <h1>Burning Itch, LLC, reputation:</h1>
+		<ul>		
+			<li>@-rep: 35</li>
+			<li>C-rep: 20</li>
+			<li>F-rep: 45</li>
+			<li>R-rep: 10</li>
+			<li>E-rep: 20</li>
+			<li>Credits: 67,020</li>
+		</ul>
+	<h2>Favor Tracker:</h2>
+
+	<h1><em>Burning Itch</em> original diagram</h1>
+	<p><img src="../nof01.jpg">
+		<ul>
+			<li>A: command</li><li>B: spun central section with modules attached</li><li>C: docking ring with umblical frames</li><li>D: cargo spine, with three rows of four modules (Each cargo module is standardized 5m by 5m by 12m)</li><li>E: engineering</li>
+		</ul>
+	</p>
+
+	<h1><em>Burning Itch</em>, present state</h1>
+		<ul>
+			<li>command</li>
+			<ul>
+				<li>primary sensor array and auxillary comm array (decade-plus-old hardware)</li>
+				<li>radiation shield</li>
+				<li>flight deck (i.e. cockpit with redundant physical controls) (radiation hardened)</li>
+				<ul>
+					<li>pilot's couch and flight controls</li>
+					<li>copilot's couch and flight congtrols</li>
+					<li>1st flight engineer's couch and console</li>
+					<li>2nd flight engineer's couch and console</li>
+					<li>passenger/non flight officer couch 1</li>
+					<li>passenger/non flight officer couch 2</li>  
+					<li>command computer (decade-plus-old hardware. Firmware updated somewhat. Purged of previous AI.)</li>
+					<ul>
+						<li><strong>infomorph fork of Garb/Molly</strong></li>
+					</ul>
+					<li>microgravity toilet</li>
+					<li>auxillary airlock</li>
+				</ul>
+				<li>auxillary control moment gyroscope</li>
+				<li>crew quarters</li>
+				<ul>
+					<li>captain's quarters (about 2.5 x 3 x 2 meters)</li>
+					<ul>
+						<li><strong>Molly</strong></li>
+					</ul>
+					<li>1st microgravity toilet</li>
+					<li>crew sleep stations (<a href="https://www.flickr.com/photos/fredthechicken/5481658220">basically nuclear submarine-style bunk beds</a>)</li>
+					<ul>
+						<li>sleep station 1</li>
+						<ul>
+							<li><strong>Tom&#225;&scaron; J&#225;gr</strong></li>
+						</ul>
+						<li>sleep station 2</li>
+						<ul>
+							<li><strong>Feron</strong></li>
+						</ul>
+						<li>sleep station 3</li>
+						<ul>
+							<li><strong>Martin</strong></li>
+						</ul>
+						<li>sleep station 4</li>
+						<ul>
+							<li><strong>Tai</strong></li>
+						</ul>
+						<li>sleep station 5</li>
+						<ul>
+							<li><strong>Huginn and Muginn</strong></li>
+						</ul>
+						<li>sleep station 6</li>
+						<li>sleep station 7</li>
+						<li>sleep station 8</li>
+						<li>sleep station 9</li>
+					</ul>
+					<li>2nd microgravity toilet</li>
+					<li>single-person microgravity sauna/hygene station</li>
+					<li>auxillary life support</li>
+					<ul>
+						<li>auxillary water recycling</li>
+						<li>auxillary potable water storage</li>
+					</ul>
+				</ul>
+			</ul>
+			<li>spun central section with modules attached (missing comm module)</li>
+				<ul>
+					<li>central axis</li>
+					<ul>
+						<li>ballast</li>
+						<li>primary life support</li>
+						<ul>
+							<li>primary water recycling</li>
+							<li>primary potable water storage</li>
+						</ul>
+					</ul>
+					<li>empty load point (missing comm module)</li>
+					<li>medical module</li>
+					<ul>
+						<li>surgical bay (reconfigurable for both gravity and microgravity environment) (decade-plus-old hardware)</li>
+						<li>medical scanning equipment (decade-plus-old hardware)</li>
+						<li>ego bridge</li>
+						<li>one-infomorph lockbox server, airgapped (empty)</li>
+						<li>toilet (reconfigurable for both gravity and microgravity environment)</li>
+						<li>one-person shower stall (usable only in gravity environment)</li>
+					</ul>
+					<li>robot repair bay</li>
+					<ul>
+						<li>various tools and robot parts</li>
+						<li>standard synthmorph (empty)</li>
+						<li>servitor bot 1</li>
+						<li>automech 1</li>
+						<li>automech 2</li>
+					</ul>
+					<li>empty load point (missing galley)</li>
+					<li>empty load point (missing rec room)</li>
+				</ul>
+			<li>docking ring with umblical frames</li>
+				<ul>
+					<li>primary airlock</li>
+					<li><em>Ingenious Gentleman</em> (docked)</li>
+					<ul>
+						<li>healing vat</li>
+						<li>Case morph 1 (empty)</li>
+						<li>Case morph 2 (empty)</li>
+						<li>automech 3 (hull)</li>
+						<li>automech 4 (life support/electronics)</li>
+						<li>servitor bot 2</li>
+					</ul>
+				</ul>
+			<li>cargo spine, with three rows of four modules (Each cargo module is standardized 5m by 5m by 12m)</li>
+				<ul>
+					<li>cargo module 1</li>
+					<li>empty load point (missing cargo module 2)</li>
+					<li>cargo module 3</li>
+					<li>cargo module 4</li>
+					<li>empty load point (missing cargo module 5)</li>
+					<li>cargo module 6</li>
+					<li>cargo module 7</li>
+					<li>cargo module 8</li>
+					<li>cargo module 9</li>
+					<li>cargo module 10</li>
+					<li>cargo module 11</li>
+					<li>cargo module 12</li>
+				</ul>
+			<li>engineering</li>
+				<ul>
+					<li>workshop</li>
+					<ul>
+						<li>parts fabber</li>
+						<li>parts recycler</li>
+						<li>spare parts</li>
+						<li>parts precursors</li>
+					</ul>
+					<li>reactor room (radiation hardened)</li>
+					<ul>
+						<li>chief engineer's couch and console</li>
+						<li>reactor operator 2 couch and console</li>
+						<li>reactor operator 3 couch and console</li>
+						<li>reactor operator 4 couch and console</li>
+					</ul>
+					<li>x6 remass tanks</li>
+					<ul>
+						<li>compressed liquid hydrogen</li>
+					</ul>
+					<li>x6 D/He3 reactors</li>
+					<li>heat radiators</li>
+					<li>x6 rockets</li>
+				</ul>
+		</ul>
+
+	<p><a href="./">back to campaign home</a></p>
+  </body>
+</html>

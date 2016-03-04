@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>game summary for 2016, Feb 25</title>
+	<link rel="stylesheet" href="gamesummary.css" type="text/css" />
+  </head>
+  <body>
+    <h2>game summary for 2016, Feb 25</h2>
+	<hr/>
+	<h3>Text Formatting Key:</h3>
+	<p><strong>generally important info</strong><br/>
+	<font color="red">(possible) major NPC</font><br/>
+	<font color="green">minor/incidental NPC</font></p>
+	<hr/>
+	<p>
+		<img src="../tach-small.png" title="Arkos" align="left"> <img src="neanderthal-small.png" title="Novak" align="right"> A few new people joined our party: the exhuman former pirate and solider, "<strong>Arkos</strong>", also an associate of <major_npc>Captain Chadwick</major_npc>, arrived and took up residence within one of our cargo containers. Arkos was sleeved into a large, vehicular-sized morph, an Arachnikoma. He could not fit into the cramped corridors of Kronos Cluster, but he was able to teleoperate a pair of guardian angel drones to keep the rest of us company. Meanwhile, Tom&#225;&scaron; went off for an hour to a resleeving clinic: he had an alpha fork of himself generated and uploaded into a Neo-Neanderthal morph. To avoid confusion, he asked that the version of him in the Hyperbright be called "<strong>Doc</strong>" and the version on him in the Neanderthal be called "<strong>Nov&#225;k</strong>".
+	</p>
+	<p>
+		Feron had recieved further information from <minor_npc>Vigo Talisman</minor_npc> about how to locate the nanoswarm sale: look for an AR display of a Titanian ice rabbit wearing neon-green lederhosen. However, that sale would be intermediated on an encrypted mesh forum: that is, actual physical access to the Grey Wolves would be limited. So we decided to interview <minor_npc>Calvin Gregory</minor_npc>, the anarchist journalist who had been snooping around in (among other issues) the affairs of the Grey Wolves.
+	</p>
+	<p>
+		Calvin was perfectly fine with meeting: he felt safe encountering strangers within the anarchist neighborhood, and generally seemed like a very open person. He was very much into the "participatory panopticon" sort of memes, lifelogged basically everything around him, and generally liked to "shine a light" on secrets and conspiracies. Chatting with Calvin, he revealed that he was generally suspcious of the Grey Wolves--he worried they were a cult of some sort. He thought the Grey Wolves were more numerous than their presence on Kronos Cluster (which amounted to maybe two egos (including <major_npc>Timothy Hatun</major_npc>) plus a few synths (whether or not those were inhabited by full egos or AIs was uncertain)). The Grey Wolves had recently hired <major_npc>Hashtag Bakur</major_npc>, a scum psychosurgeon. Hashtag was a former lover of one "<minor_npc>Lili Kauffmann</minor_npc>", but had recently been at-odds with Hashtag. Lili was presently a drug designer and experimental psychosurgeon, operating out of the "Glacier Spunk", a scum ice harvester which operated between Rhea and Kronos Cluster. Also notable about the "Glacier Spunk" was that it was captained by one "<minor_npc>Commodore Fuckface</minor_npc>", whom Captain Chadwick had mentioned was a friendly asset to us.
+	</p> 
+	<p>
+		We got Lili's mesh address from Calvin, so decided to contact Lili. Upon starting to mesh chat with him, he appeared strapped into a zero-g couch, high on some sort of drugs (specifically powerful painkillers designed for people who had developed resistances to less new painkillers). Lili made a habit of documenting his drug use (basically life logging his use of them, and posting the formulas on the mesh)--his recent drug use showed a sudden spike in the use of painkillers and hallucinogens. We asked Lili a bit about Hashtag--Lili revealed that he had fallen out when Hashtag once Hashtag had gotten into "reclaimer memes". When questioned about Hashtag's present whereabouts, Lili denied knowing where Hashtag was. However, Lili seemed to be holding back information, possibly out of affection or concern. 
+	</p>
+	<p>
+		Finally, Tai prompted Lili with the message that Hashtag was "dealing with a bad crowd", and that it'd be helpful if Lili came forward with info. At this point, Lili was unable to keep the emotion off his face, and revealed that <strong>Hashtag had begun staying in a nearby frieghter owned by the Night Cartel, the "Objective: Helsinki"</strong>. He had seen him go in, but not come back out.
+	</p>
+	<p>
+		We began to investigate the "Objective: Helsinki". It was currently docked at Kronos on spar AA4C, a derilect hulk: its reactor had been removed. It was a Night Cartel safe house, and, from a spotty public spime in the docking bay, we could observe people in security pods going in and out of the craft. Sometimes we would spot the door stay open for longer than seemed neccessary, and we inferred that that meant there individuals in chameleon cloaks going in. <strong>The security pods wielded some fairly heavy weapons: particle beam bolters with underbarrel seeker launchers</strong>. Finally, and particularly important, <strong>we spotted out two primary targets, Hashtag (sleeved into a menton wearing a space suit) and Timothy (sleeved into a male sylph, seeming to be suffering from resleeving dysphoria) entering the craft, and never emerging</strong>.
+	</p>
+	<p>
+		Since the "front door" seemed so heavily guarded, Molly began asking around her criminal contacts for information about a possible "back door" into the "Objective: Helsinki". She specifically obfuscated her social networking, so that the Night Cartel cell controlling the "O:H" was not alerted to our interest in their safehouse. Molly picked up two important pieces of information: there were, indeed, exterior airlocks, and also the person to contact in reference to the safehouse was one "<minor_npc>Yves Holiday</minor_npc>". Yves was a Night Cartel lieutenant and fixer. She was part of the French-Algerian mafia, before that cartel had been absorbed, post-Fall. Particularly significant to us: <strong>she was also on the list of people with Errant Star protection</strong>, implying she was the middleman offering proection to the not-wealthy Grey Wovles ringer gang.
+	</p>
+	<p>party recieved:
+		<ul>
+			<li>5 Rez per PC</li>
+		</ul>
+	</p>
+	<p><strong>+48 days post-start</strong></p>
+	<p><a href="./">back to campaign home</a></p>
+  </body>
+</html>

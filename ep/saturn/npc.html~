@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="shortcut icon" href="saticon.ico" />
+		<link rel="stylesheet" href="./foo.css" type="text/css" />
+		<title>important NPCs</title>
+	</head>
+	<body>
+		<!--<img src="mimas-small.jpg">-->
+
+		<table class="footer">
+			<tr>
+				<td>
+				<p><a href="fritz.html"><img src="./fritz.jpg"> <strong>Mr. Fritz</strong></a>, the party's myterious patron.</p>
+
+				<p><a href="hm.html"><img src="hm-small.png"> <strong>Huginn and Munin</strong></a>, emergent/gestalt AGI</p>
+
+				<p><a href="anthony.html"><img src="bern-small.jpg"> <strong>Domenic Anthony</strong></a>, a pre-Fall US politician.</p> 
+
+				<p><a href="tinytao.html"><img src="tt-small.png"> <strong>Tiny Tao</strong></a>, small-time gangster.</p>
+
+				<p><a href="boris.html"><img src="boris-small.jpg"> <strong>Boris Malkin</strong></a>, a pre-Fall Russian hypercorp oligarch/gangster.</p>
+
+				<hr/>
+
+				<p><a href="./">back to Saturn campaign home</a></p>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>     

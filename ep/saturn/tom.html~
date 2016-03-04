@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Tom&#225;&scaron; J&#225;gr</title>
+	</head>
+	<body>
+	  <img src="../tom02.png"> <img src="neanderthal-med.png">
+		<h3>Name: Tom&#225;&scaron; J&#225;gr ("Doc" and "Nov&#225;k")</h3>
+		<p>(pronounced: toe-mawsh ya-gurr)</p>
+		<h3>Age: 32</h3>
+		<h3>Gender ID: male</h3>
+		<h3>present morph: Hyperbright</h3>
+		<h3>Motivations: +Hyper-Evolution, +Research, +Neurodiversity</h3>
+		<h3>Social Networks: The @-list: 70. RNA: 38</h3>
+		<h3>History/Details</h3>
+		<p>
+			Born, on Atlas, to a couple of middle-class technocrat/engineers who worked for Volkov. A nerd and mad scientist even as a child, he presented a high IQ (even by transhuman standards), but social difficulties--therapists suspected a variety of diagnoses, from schizophrenia to autism spectrum disorder to antisocial personality disorder. A few years before The Fall, he made the ill-timed decision to become interested in, and an advocate for, the Singularity, in an almost old-timey Kurzweilean manner. 
+		</p>
+		<p>
+			When the actual Singularity turned out to be less "benign, democratic apotheosis" and more "evil machines will kill us all", he (wisely) became much more circumspect about the whole Singularity thing. However, to this day, he still believes transhumanity should continue to evolve to a better state. 
+		</p>
+		<p>
+			After the Fall, he felt constrained by the hypercorp environment, so left to hang out with the Scum. There, he pursues his research interests (mostly) unfettered, and earns the goodwill of other Scum by acting as a body modder (he is a fairly decent tattoo artist, among other skills), physician, and psychosurgeon. His research is almost all publicly-availiable, earning him a good reputation among the Argonauts, as well.
+		</p>
+
+<!--BEGIN SOCIAL NETWORKING-->
+	<h2>Favors tracker</h2>
+	<ul>
+		<li>LEVEL 3 @-REP, +11 days, to acquire a mobile lab</li>
+		<li>LEVEL 4 @-Rep, +11 days, to acquire a healing vat</li>
+		<li>LEVEL 5 @-REP, +48 days, to acqurie a neo-Neanderthal morph</li>
+		<li>LEVEL 2 @-Rep, +48 days, to get medichines installed on neo-Neanderthal</li>
+	</ul>
+<!--END SOCIAL NETWORKING-->
+
+		<p><a href="./">back to campaign home</a></p>
+	</body>
+</html>        
