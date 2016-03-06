@@ -13,19 +13,18 @@
 	<div class="mainbody">
 		<div id="navcontainer"> 
 			<ul id="navlist"> 
-				<li><a href=".">EP root</a></li> 
-				<li><a href="campaigns.html">campaigns</a></li> 
-				<li><a href="spaceships.html">spacecraft</a></li> 
+				<li><a href="ep.html">EP root</a></li> 
+				<li><a href="ep-campaigns.html">campaigns</a></li> 
+				<li><a href="spaceships.html">spacecraft stuff</a></li> 
 				<li><a href="art.html">art + inspiration</a></li>
-				<li><a href="ep-setting.html">setting</a></li>
+				<li><a href="ep-setting.html">setting stuff</a></li>
 				<li><a href="ep-credit.html">+EP REP</a></li>
-				<li><a href="ep-misc.html">misc</a></li>
-				<li><a href="./blog">blog</a></li>
+				<li><a href="ep-misc.html">miscellaneous</a></li>
 			</ul> 
 		</div>
 		<div id="bodyelem">
 			<h3><a href="ep-essays.html">Eclipse Phase essays</a></h3>
-			<p><a href=".">back to EP root</a></p>
+			<p><a href="ep.html">back to EP root</a></p>
 		</div>
 	</div>
   </body>
