@@ -2,24 +2,25 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Arkos</title>
+		<title>Martin</title>
 	</head>
 	<body>
-	  <img src="../tach.png">
-		<h3>Name: Arkos</h3>
+	  <img src="oscar.jpg">
+		<h3>Name: Martin</h3>
 		<h3>Age: ?</h3>
 		<h3>Gender ID: Male</h3>
-		<h3>present morph: Arachnikoma</h3>
-		<h3>Motivations: +Explosions, +Tech Advancements, +Wealth</h3>
+		<h3>present morph: Worker Pod</h3>
+		<h3>Motivations: ?</h3>
 		<h3>Social Networks: ?</h3>
 		<h3>History/Details</h3>
 		<p>
-			exhuman former pirate and bot jammer
+			a former covert operator and investigator
 		</p>
 
 <!--BEGIN SOCIAL NETWORKING-->
 	<h2>Favors tracker</h2>
 	<ul>
+		<li>LEVEL 3 @-REP, +48 days, to acquire the protection of Bluetooth for the entire party</li>
 	</ul>
 <!--END SOCIAL NETWORKING-->
 
