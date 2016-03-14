@@ -1,5 +1,5 @@
 body{
-background-color:#000000;
+background-color:#077207;
 font-family:Georgia, serif;
 font-size: 12px;
 color:#000000;
@@ -124,6 +124,7 @@ padding:0px;
 
 #navlist
 {
+background-color: #077207;
 margin-top:0px;
 margin-bottom:2px;
 padding:0px;
