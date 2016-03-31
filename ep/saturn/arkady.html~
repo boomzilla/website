@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Arkady Palamas</title>
+	</head>
+	<body>
+	  <img src="../tumblr_small.png">
+		<h3>Name: Arkady Palamas</h3>
+		<h3>Age: ???</h3>
+		<h3>Gender ID: male</h3>
+		<h3>present morph: ???</h3>
+		<h3>Motivations: ?</h3>
+		<h3>Social Networks: ?</h3>
+		<h3>History/Details</h3>
+		<p>
+			<strong>Infobroker</strong> who tipped off his old friend, Feron (and party), to the salvage opportunity of the derilect "Nebraska on Fire" for a cut of the salvage share. 
+		</p>
+
+		<p><a href="./npc.html">NPCs</a></p>
+	</body>
+</html>        
