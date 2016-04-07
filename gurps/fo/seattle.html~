@@ -1,0 +1,17 @@
+<html>
+<head>
+	<link rel="stylesheet" href="content.css" type="text/css" />
+</head>
+<body>
+	<h2>Seattle</h2>
+	<p><strong>Seattle</strong>, or "The Emerald City" as we like to call her, is the largest city in Washington State, and one of the primary West Coast ports. Important businesses, factories, and militaries facilities are quite numerous in and around this booming city.</p>
+	<p>
+		Vital Stats:<br/>
+Location: 47.61, -122.33<br/>
+Population (est): 710,000<br/>
+Area: 143 miles^2
+	</p>
+	<p><a href="seattle02.html">next page</a></p>
+	<p><a href="cities.html">back to cities/locales root</a></p>
+</body>
+</html>
