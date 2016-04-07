@@ -1,0 +1,139 @@
+body{
+background-color:#000000;
+font-family:Georgia, serif;
+font-size: 12px;
+color:#000000;
+}
+
+.mainbody
+{
+margin:auto;
+width:800px;
+/*width:80%;*/
+background-color:white;
+}
+
+.header
+{
+/*width:778px;*/
+margin:auto;
+width:800px;
+/*background-color:#FFFFFF; 
+color:#FFFFFF;
+/*padding:5px;*/
+/*font-family:Georgia, serif;
+font-size: 15px;*/
+}
+
+#bodyelem
+{
+padding:10px;
+}
+
+.footer
+{
+margin:auto;
+font-size:14px;
+}
+
+.presentlink
+{
+font-family:"Comic Sans MS", cursive, sans-serif;
+color:#e30c59;
+font-size:14px;
+text-decoration:underline;
+}
+
+h1
+{
+font-family:Georgia, serif;
+font-size: 48px;
+}
+
+h2
+{
+font-family:Georgia, serif;
+font-size: 32px;
+}
+
+h3
+{
+font-family:Georgia, serif;
+font-size: 24px;
+}
+
+p
+{
+font-family:Georgia, serif;
+font-size: 16px;
+}
+
+table, th, td
+{
+border:1px solid black;
+}
+
+td
+{
+text-align:left;
+vertical-align:top;
+}
+
+#navcontainer ul
+{
+margin-left: auto;
+margin-right: auto;
+padding-left: 0;
+/*margin-left: 0;*/
+background-color: #000000;
+color: white;
+float: left;
+width: 100%;
+/*width:800px;*/
+}
+
+#navcontainer ul li
+{
+display: inline;
+}
+
+#navcontainer ul li a
+{
+padding: 0.75em 1em;
+background-color: #077207;
+color: #ffffff;
+text-decoration: none;
+text-transform:uppercase;
+float: left;
+border-right: 1px solid #71716f;
+}
+
+#navcontainer ul li a:hover
+{
+background-color: #4f4f4d;
+color: #fff;
+}
+
+#headerimage
+{
+text-align:center;
+margin-top:0px;
+margin-bottom:0px;
+padding:0px;
+}
+
+#navlist
+{
+background-color: #077207;
+margin-top:0px;
+margin-bottom:2px;
+padding:0px;
+}
+
+a:link{
+color:#000000
+}
+
+a:visited{
+color:#000000
+}
