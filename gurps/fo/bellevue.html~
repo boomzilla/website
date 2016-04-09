@@ -1,0 +1,22 @@
+<html>
+<head>
+	<link rel="stylesheet" href="content.css" type="text/css" />
+</head>
+<body>
+	<h2>Bellevue</h2>
+	<p>
+		Forward-thinking <strong>Bellevue</strong> is most well-known (along with the adjacent suburb of <strong>Redmond</strong>) being home to Macrosoft, as well branch offices and laboratories to other major technology companies.
+	</p>
+	<p>
+		Vital Stats:<br/>
+Location: 47.60, -122.17<br/>
+Population (est): 144,000<br/>
+Area: 36 miles^2
+	</p>
+	<h3>Interesting and Important Locales:</h3>
+	<p>
+		Macrosoft Headquarters (47.639722, -122.128333), local technology giant Macrosoft, maker of the Wyndoze terminal control code, is Robco’s main competitor in the area of robotics and computation.
+	</p>
+	<p><a href="cities.html">back to cities/locales root</a></p>
+</body>
+</html>

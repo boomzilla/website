@@ -3,9 +3,9 @@ body{
 }
 
 a:link{
-color:#000000
+	color:#437C17;
 }
 
 a:visited{
-color:#000000
+	color:#437C17;
 }
