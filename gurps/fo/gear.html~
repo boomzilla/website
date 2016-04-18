@@ -1,0 +1,169 @@
+<html>
+<head>
+	<link rel="stylesheet" href="content.css" type="text/css" />
+</head>
+<body>
+	<p>Here are gear to buy at character creation.</p>
+	<p>You will start with $1000 worth of gear to yourself. This can be lowered or raised by taking negative or positive Wealth. You will *also* recieve a modicum of supplies from the vault quartermaster (which aren't technically yours, and will be exptected to be returned if/when you reteurn home). Yes, $1000 means 1,000 bottlecaps, *but* I am *not* going to allow you to have any bottlecaps to begin with. It would just be too meta-game-y to have your vault dwellers know right off-hand that Nuka Cola bottle caps are currency. If you *do* want something currency-like to begin with (and, feel free to offer the suggestion that Vault 45 uses these as a improvised currency), some options include: cigarettes (which totally acted as currency in WWII POW camps), bullets, match sticks, etc.</p>
+	<h1>Clothing and Armor</h1>
+		<h2>misc clothing</h2>
+			<h3>set of basic clothing</h3>
+				<p>
+					<strong>Cost: ??? (but assume you have a set for free to begin with)</strong><br/>
+					<strong>Weight: 5 lbs</strong><br/>
+					Includes undergarments (weight neg.), Vault 45 jumpsuit (2 lbs) (Radiation PF 2 to wearer (i.e. divide radiation doses by 2)) (DR 1 to covered areas), and boots (3 lbs) (DR 2 to feet).
+				</p>
+	<hr/>
+	<h1>Food and Misc</h1>
+		<h2>Food</h2>
+			<h3>Drinkable water, quart</h3>
+				<p>
+		<strong>Cost: $1</strong><br/>
+		<strong>Weight: 2 lbs</strong><br/>
+		This represents just the water: buy something like a canteen to hold it. Mechanically, at least two quarts of water are needed per day for a character to stave off dehydration.
+	</p>
+	<h3>Nuka Cola, bottle</h3>
+	<p>
+		<strong>Cost: $4</strong><br/>
+		<strong>Weight: 1 lbs</strong><br/>
+		Popular brand of pre-War soft drink. Comes in iconic 12 ounce bottle. (consider it to be 1/3 quart of water for fending of dehydration). Mechanically, at least two quarts of water are needed per day for a character to stave off dehydration.
+	</p>
+	<h3>Canned food</h3>
+	<p>
+		<strong>Cost: $2</strong><br/>
+		<strong>Weight: 1 lbs</strong><br/>
+		Can of canned food. Mechanically, satisfies one (of three) daily meals for a person to stay healthy.
+	</p>
+	<h3>MRE</h3>
+	<p>
+		<strong>Cost: $5</strong><br/>
+		<strong>Weight: 0.5 lbs</strong><br/>
+		Packaged of pre-War preserved food used by military and survivalists. Mechanically, satisfies one (of three) daily meals for a person to stay healthy.
+	</p>
+	<h3>Hardtack</h3>
+	<p>
+		<strong>Cost: $1</strong><br/>
+		<strong>Weight: 1 lbs</strong><br/>
+		Not particularly appetizing, but it's very cheap and keeps very well. Mechanically, satisfies one (of three) daily meals for a person to stay healthy.	
+	</p>
+	<h2>Recreational substances</h2>
+	<h3>Alcohol: shot of moonshine</h3>
+	<p>
+		<strong>Cost: $0.25</strong><br/>
+		<strong>Weight: neg.</strong><br/>
+		Ethanol is one of the easiest drugs to make, an early TL1 tech! This represents high-ethanol content stuff that you'd drink if you're just an addict interested in getting drunk. Price also goes up for stuff like beer and wine. 
+	</p>
+	<h3>Tobacco: single cigarette</h3>
+	<p>
+		<strong>Cost: $1</strong><br/>
+		<strong>Weight: neg.</strong><br/>
+		A single tobacco cigarette: nicotine heads have a much more difficult time in the Wasteland where tobacco is hard to come by. Loose, unrolled tobacco can probably be had for slightly less, but I'm not going to worry about it unless a PC has an Addiction disadvantage (Tobacco addiction is worth -20 points since the product is so expensive)
+	</p>
+		<h2>misc</h3>
+			<h3>set of basic toiletries</h3>
+				<p>
+					<strong>Cost: ??? (but assume you have a set for free to begin with)</strong><br/>
+					<strong>Weight: 2 lbs</strong><br/>
+					A set of basic personal care items. Don't feel like accounting for every single little thing if you don't want to, but assume that some of these items could be improvised for "adventuring" scenarios: dental floss for fishing line, tampons to stop bleeding, soap to prevent spread of deadly virus, etc.
+				</p>
+	<hr/>
+	<h1>Weapons: Firearms</h1>
+
+		<h2>Rifles (Use "Guns (Rifle)")</h2>
+			<table border="1">
+				<tr><th>weapon</th><th>ammo</th><th>dmg</th><th>acc</th><th>range</th><th>RoF</th><th>shots</th><th>ST</th><th>bulk</th><th>rcl</th></tr>
+				<tr><td>Colt M4A1</td><td>5.56x45</td><td>4d+2 pi</td><td>4</td><td>750/2900</td><td>15</td><td>30+1</td><td>9</td><td>-4</td><td>2</td></tr>
+				<tr><td>Kalashnikov</td><td>7.62x39</td><td>5d+1 pi</td><td>4</td><td>500/3100</td><td>10</td><td>30</td><td>9</td><td>-5</td><td>2</td></tr>
+				<tr><td>Springfield M1903</td><td>.30-06</td><td>7d+1 pi</td><td>5</td><td>1100/4500</td><td>1</td><td>5</td><td>9</td><td>-5</td><td>3</td></tr>
+			</table>
+			<h3>Colt M4A1</h3>
+				<p>
+					<strong>Cost: $1700</strong><br/>
+					<strong>Weight: 7.3 lbs (empty), 8.3 (loaded)</strong><br/>
+					Primary military carbine of the US military for much of the 21st Century before is began to be replaced by Gauss guns and energy weapons.
+				</p>
+			<h3>Izhmash AK-47 ("Kalashnikov")</h3>
+				<p>
+					<strong>Cost: $1800</strong><br/>
+					<strong>Weight: 11.3 lbs (empty), 13.1 (loaded)</strong><br/>
+					Iconic assault rifle from the Soviet Union.
+				</p>
+			<h3>Springfield M1903</h3>
+				<p>
+					<strong>Cost: $1100</strong><br/>
+					<strong>Weight: 8.8 lbs (empty), 9.1 (loaded)</strong><br/>
+					Common bolt-action hunting rifle.
+				</p>
+
+		<h2>Shotguns (Use "Guns (Shotgun)")</h2>
+			<table border="1">
+				<tr><th>weapon</th><th>ammo</th><th>dmg</th><th>acc</th><th>range</th><th>RoF</th><th>shots</th><th>ST</th><th>bulk</th><th>rcl</th></tr>
+				<tr><td>Remington Model 870</td><td>12G 2.75" buckshot</td><td>1d+1 pi</td><td>3</td><td>40/800</td><td>2x9</td><td>4+1</td><td>10</td><td>-6</td><td>2</td></tr>
+			</table>
+			<h3>Remington Model 870</h3>
+				<p>
+					<strong>Cost: $400</strong><br/>
+					<strong>Weight: 7.6 lbs (empty), 8.2 (loaded)</strong><br/>
+					Very common pump-action shotgun.
+				</p>
+
+		<h2>Handguns (Use "Guns (Pistol)")</h2>
+			<table border="1">
+				<tr><th>weapon</th><th>ammo</th><th>dmg</th><th>acc</th><th>range</th><th>RoF</th><th>shots</th><th>ST</th><th>bulk</th><th>rcl</th></tr>
+				<tr><td>Beretta M9</td><td>9x19</td><td>2d+2 pi</td><td>2</td><td>160/1800</td><td>3</td><td>15+1</td><td>9</td><td>-2</td><td>2</td></tr>
+				<tr><td>Makarov</td><td>9x18</td><td>2d pi</td><td>2</td><td>110/1200</td><td>3</td><td>8+1</td><td>8</td><td>-2</td><td>2</td></tr>
+			</table>
+			<h3>Beretta M9</h3>
+				<p>
+					<strong>Cost: $700</strong><br/>
+					<strong>Weight: 2.8 lbs (empty), 3.4 (loaded)</strong><br/>
+					Semi-auto pistol commonly used by pre-War US military.
+				</p>
+			<h3>Izhmekh PM ("Makarov")</h3>
+				<p>
+					<strong>Cost: $300</strong><br/>
+					<strong>Weight: 1.8 lbs (empty), 2.1 (loaded)</strong><br/>
+					Semi-auto pistol manufactured in pre-War Soviet Union, and copied by China. Was a common souvenier for returning GIs.
+				</p>
+
+		<h2>Ammo (cost and weight are per 20 rounds)</h2>
+			<h3>9x18</h3>
+				<p>
+					<strong>Cost: $90</strong><br/>
+					<strong>Weight: 0.4 lbs</strong><br/>
+					Pistol round from the Soviet Union. Was not commonly found in pre-War US.
+				</p>
+			<h3>9x19</h3>
+				<p>
+					<strong>Cost: $45</strong><br/>
+					<strong>Weight: 0.5 lbs</strong><br/>
+					Common pistol round.
+				</p>
+			<h3>.22 LR</h3>
+				<p>
+					<strong>Cost: $15</strong><br/>
+					<strong>Weight: 0.15 lbs</strong><br/>
+					Dinky little round, but incredibly common and cheap.
+				</p>
+			<h3>5.56x45</h3>
+				<p>
+					<strong>Cost: $80</strong><br/>
+					<strong>Weight: 0.5 lbs</strong><br/>
+					Rifle round commonly used in 21st Century US military rifles before Gauss guns and energy weapons were developed.
+				</p>
+			<h3>7.62x39</h3>
+				<p>
+					<strong>Cost: $110</strong><br/>
+					<strong>Weight: 0.7 lbs</strong><br/>
+					Rifle round commonly used in the Soviet Union and China.
+				</p>
+			<h3>.30-06</h3>
+				<p>
+					<strong>Cost: $110</strong><br/>
+					<strong>Weight: 1.1 lbs</strong><br/>
+					Pronounced "thiry ought six". Rifle round.
+				</p>
+	
+<p><a href="rules.html">back to rules root</a></p>
+</body>
+</html>

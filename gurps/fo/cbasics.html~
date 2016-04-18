@@ -1,0 +1,91 @@
+<html>
+<head>
+	<link rel="stylesheet" href="content.css" type="text/css" />
+</head>
+<body>
+	<h2>Basic Basics</h2>
+	<p>Mechanically, you are building 100-point PCs, max 40 points of disadvantages (below-10 attributes count as disads), plus 5 quirks. You will likely be building human Vault 45 residents. If you want to build a non-human vault dweller (ghoul, android, etc), I think I can work you in pretty easily. If you want to build an Outsider who encounters the rest of the party, I <em>might</em> be able to work you in, but it might be a bit harder.</p>
+	<p>
+		To give a perspective on character power-level:
+	</p>
+	<h3>Feeble (under 25 points):</h3>
+	<p>Small children, mindless thralls, zombies, etc. Unsuitable for PCs in any but the darkest or most humorous of campaigns.</p>
+	<h3>Average (25-50 points):</h3>
+	<p>Ordinary folks, such as accountants and cab drivers.</p>	
+	<h3>Competent (50-75 points):</h3>
+	<p>Athletes, cops, wealthy gentry . . . anyone who would have a clear edge over "average" people on an adventure.</p>
+	<h3>Exceptional (75-100 points):</h3>
+	<p>Star athletes, seasoned cops, etc. With a little experience, these individuals could become full-time adventurers.</p>
+	<h3>Heroic (100-200 points):</h3>
+	<p>People at the realistic pinnacle of physical, mental, or social achievement; e.g., Navy SEALs, world-class scientists, and millionaires. Most full-time adventurers start their careers at around 150 points.</p>
+	<h3>Larger-than-Life (200-300 points):</h3>
+	<p>Leading roles in kung fu movies, fantasy novels, etc. Typical of the professional adventurer who has already made a name for himself.</p>
+	<h3>Legendary (300-500 points):</h3>
+	<p>Protagonists of epic poems and folklore. This is the best power level for "gritty" supers and for mortals who rub shoulders with gods.</p>
+	<h3>Superhuman (500-1,000 points):</h3>
+	<p>Those who have transcended humanity (e.g., supers who can take on tanks barehanded) and powerful creatures of fantasy (e.g., dragons who can best entire armies).</p>
+	<h3>Godlike (over 1,000 points):</h3> 
+	<p>True demigods who can do as they please most of the time.</p>
+
+	<h2>Attributes</h2>
+	<p>GURPS has four primary attributes, and four "secondary" attributes.<br/> 
+	Primary (all start at 10 for free: spend character points to raise or lower):
+	<ul>
+		<li><strong>ST</strong>: (Strength), used to determine how hard you hit in melee combat, how much you can carry, etc. <strong>costs +/- 10 points to raise or lower by 1</strong></li>
+		<li><strong>DX</strong>: (Dexterity), more than just manual dexterity, but also a measure of coordination, reflexes, etc. Almost all "physical" skill rolls (e.g. shooting a target, conencting a punch, leaping a chasm, etc) are based off of DX! <strong>costs +/- 20 points to raise or lower by 1</strong></li>
+		<li><strong>IQ</strong>: (Intelligence), but more than just intelligence, IQ is used to derive willpower, interperonsal charisma, etc. (NOTE: there *are* ways to make, e.g., intelligence but socially awkward nerds! I'll explain below.) Almost all "mental" skill rolls (e.g. hacking a computer, haggling over price, healing a bullet wound, etc) are based off of IQ! <strong>costs +/- 20 points to raise or lower by 1</strong></li>
+		<li><strong>HT</strong>: (Health), used to determine how healthy you are. Used to resist radiation, poison, etc. <strong>costs +/- 10 points to raise or lower by 1</strong></li>
+	</ul>
+	Seconday (all are equal to their derived primary attribute for free: spend character points to raise or lower):
+	<ul>
+		<li><strong>HP</strong>: (hit points), mostly self-explanatory. For perspective: typical person has 10 HP. A typical pistol averages around 7 damage, and a typical military rifle around 15. If your HP is reduced to 0 or negative, you risk falling unconscious. If your HP goes very far into negative territory, you risk death! <strong>HP is derived from ST. Costs +/- 5 points to raise or lower by 1</strong></li>
+		<li><strong>Will</strong>: (willpower), mostly self-explanatory. Used to resist fear, resist psychic mind control, resist drug addiction, etc. <strong>Will is derived from IQ. Costs +/- 5 points to raise or lower by 1</strong></li>
+		<li><strong>Per</strong>: (Perception), mostly self-explanatory. <strong>Per is derived from IQ. Costs +/- 5 points to raise or lower by 1</strong></li>
+		<li><strong>FP</strong>: (fatigue points), analagous to HP, but instead of getting lost to gun shots or knife slashes, FP is lost to hard work like digging a ditch, going on a long hike, or staying awake for long periods. A lot of GMs tend to overlook FP, but I will track it fairly closely since the characters *will* be doing stuff like hiking. <strong>HP is derived from HT. Costs +/- 5 points to raise or lower by 1</strong></li>
+	</ul>
+	</p>
+
+	<h2>You're SPECIAL!</h2>
+	<p>Here's what the Fallout attributes more-or-less correspond to:
+		<ul>
+			<li><strong>STRENGTH</strong>: GURPS ST (duh)</li>
+			<li><strong>PERCEPTION</strong>: GURPS Per (mostly), but FO PERCEPTION also alters gun accuracy (DX in GURPS), and Doctor skill (IQ in GURPS)</li>
+			<li><strong>ENDURANCE</strong>: GURPS HT (mostly)</li>
+			<li><strong>CHARISMA</strong>: No direct attribute in GURPS! GURPS "social" skills like Carousing, Negotiation, etc, are IQ-based. To model low CHARISMA, use disadvantagers such as "Shyness", "Oblivious", "Unattractive", etc. To model high CHARISMA, use advantagse such as "Charisma", "Voice", "Attractive", etc.</li>
+			<li><strong>INTELLIGENCE</strong>: GURPS IQ (but GURPS IQ influences *a lot* more)</li>
+			<li><strong>AGILITY</strong>: GURPS DX</li>
+			<li><strong>LUCK</strong>: not direct GUPRS analog! To model low LUCK characters, use disadvantages such as "Unluckiness". To model high LUCK characters, use advantages such as "Luck", "Serendipity", or "Daredevil".</li>
+		</ul>
+	</p>
+
+	<h2>Skills</h2>
+	<p><a href="skills.html">See the skill guide for a list of skills that might be particularly useful in this setting</a>. GURPS has a *lot* of skills, sorta the polar opposite of "compact" systems like FATE. Skills are all based off of a linked attribute, and mechanically, it tends to be more "optimal" to build lots of char points into attributes, with less char points into skills. (As opposed to low CP into att, high CP into skill poitns). DX and IQ are *the* most used attributes, but some of the other attributes sometimes are linked: HT forms the basis of the "Hiking" skill, Per forms the basis for "Scrounging", etc. Sometimes, a different attribute can be linked to determine the skill level, for example, Guns: Rifle may be based off of IQ rather than DX to perform basic maintinence. Nearly all skills can be "defaulted" untrained: e.g. a person who has never shot a gun in their life would still probably be able to figure one out. Also, nearly all skills can also be defaulted from a related skill: a sniper with high Guns: Rifle can also fire a pistol okay by defaulting from their Guns: Rifle skill.</p>
+
+	<h2>Advantages and Disadvantages</h2>
+	<p>These are analagous to "Traits" in e.g. "Eclipse Phase". They represent a variety of conditions, from missing a limb to having eidetic memory. <a href="addisad.html">See the ad/disad guide for list of particularly appropriate ads and disads</a>.</p>
+
+	<h2>Perks and Quirks</h2>
+	<p>Perks and qruiks are minor, 1-point cost (perk) or gained (quirk) versions of Advantage of Disadvantages. Perks *usually* just don't seem to come up too often, really, but if you can think up something cool, or see a cool one in one of the GURPS sourcebooks, feel free to point it out to me. Quirks, by contrast, *are* pretty useful, since they both gain you char points, and offer roleplaying opportunities. A quirk could represent something like, say, a minor allergy to chile peppers. However, they are also great stand-ins for the "Motivations" from "Eclipse Phase", and I'll totally allow you to even use EP shorthand. For instsance, a typical good-two-shoes Boyscout-type might have:
+	<ul>
+		<li>+Good Ole' U.S. of A</li>
+		<li>-Communism</li>
+		<li>+Helping Others</li>
+		<li>+Mom</li>
+		<li>+Baseball</li>
+	</ul>
+	While a hedonistic frat boy-type might have:
+	<ul>
+		<li>+Liquor</li>
+		<li>+Sex</li>
+		<li>+Being a Bro</li>
+		<li>+Home Football team</li>
+		<li>-Rival Football team</li>
+	</ul>
+	(Note: at more extreme versions, these quirks could totally qualify as Disadvantages: the Boy Scout who really, *really* loves America might have Fanaticism: USA for -10 points, while the Frat Bro who starts a riot when their football team loses would have Intolerance: Rival Football team)
+	</p>
+	<h3>Gear</h3>
+	<p>You will start with $1000 worth of gear to yourself. This can be lowered or raised by taking negative or positive Wealth. You will *also* recieve a modicum of supplies from the vault quartermaster (which aren't technically yours, and will be exptected to be returned if/when you reteurn home). I will write up a list of gear after awhile. Yes, $1000 means 1,000 bottlecaps, *but* I am *not* going to allow you to have any bottlecaps to begin with. It would just be too meta-game-y to have your vault dwellers know right off-hand that Nuka Cola bottle caps are currency. If you *do* want something currency-like to begin with (and, feel free to offer the suggestion that Vault 45 uses these as a improvised currency), some options include: cigarettes (which totally acted as currency in WWII POW camps), bullets, match sticks, etc.</p>
+
+	<p><a href="rules.html">back to rules root</a></p>
+</body>
+</html>
