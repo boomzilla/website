@@ -54,7 +54,7 @@
 					<ul>
 						<li>sleep station 1</li>
 						<ul>
-							<li><strong>Tom&#225;&scaron; J&#225;gr</strong></li>
+							<li><strong>Doc</strong></li>
 						</ul>
 						<li>sleep station 2</li>
 						<ul>
@@ -66,13 +66,16 @@
 						</ul>
 						<li>sleep station 4</li>
 						<ul>
-							<li><strong>Tai</strong></li>
+							<li><strong>Novak</strong></li>
 						</ul>
 						<li>sleep station 5</li>
 						<ul>
 							<li><strong>Huginn and Muginn</strong></li>
 						</ul>
 						<li>sleep station 6</li>
+						<ul>
+							<li><strong> Asuramon</strong></li>
+						</ul>
 						<li>sleep station 7</li>
 						<li>sleep station 8</li>
 						<li>sleep station 9</li>
@@ -135,6 +138,8 @@
 						<li>automech 3 (hull)</li>
 						<li>automech 4 (life support/electronics)</li>
 						<li>servitor bot 2</li>
+						<li>food maker programed with above standard quality food pastes</li>
+						<li>drug/chem maker</li>
 					</ul>
 				</ul>
 			<li>cargo spine, with three rows of four modules (Each cargo module is standardized 5m by 5m by 12m)</li>
