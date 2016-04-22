@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>"Novak" Tom&#225;&scaron; J&#225;gr stats</title>
+	</head>
+	<body>
+		<h2>"Novak" Tom&#225;&scaron; J&#225;gr</h2>
+		<p>+Hyper-Evolution, +Research, +Neurodiversity</p>
+		<p>Total Rez Awarded: 37<br/>
+		<strong>Total Rez Remaining: 19</strong></p>
+		<table>
+		<tr>
+		<td>
+		<table border="1">
+			<tr>
+				<th>Skill</th> <th>Apt</th> <th>Rank</th> <th>Base</th> <th>Morph</th> <th>SubTotal</th> <th>Bonus</th> <th>Total</th> <th>Spec</th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Fray</th> <td><!--Apt-->REF</td> <td><!--Rank-->40</td> <td><!--Base-->55</td> <td><!--Morph-->0</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Freefall</th> <td><!--Apt-->REF</td> <td><!--Rank-->30</td> <td><!--Base-->55</td> <td><!--Morph-->0</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Hardware: Implants</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Interfacing</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Intimidation</th> <td><!--Apt-->SAV</td> <td><!--Rank-->20</td> <td><!--Base-->35</td> <td><!--Morph-->0</td> <th><!--SubTotal-->35</th> <td><!--Bonus-->0</td> <th><!--Total-->35</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Investigation</th> <td><!--Apt-->INT</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Kinesics</th> <td><!--Apt-->SAV</td> <td><!--Rank-->0</td> <td><!--Base-->5</td> <td><!--Morph-->0</td> <th><!--SubTotal-->5</th> <td><!--Bonus-->10</td> <th><!--Total-->15 (40)</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Medicine: Biosculpting</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Medicine: Gene Therapy</th> <td><!--Apt-->COG</td> <td><!--Rank-->40</td> <td><!--Base-->60</td> <td><!--Morph-->5</td> <th><!--SubTotal-->65</th> <td><!--Bonus-->0</td> <th><!--Total-->65</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Medicine: General Practice</th> <td><!--Apt-->COG</td> <td><!--Rank-->40</td> <td><!--Base-->60</td> <td><!--Morph-->5</td> <th><!--SubTotal-->65</th> <td><!--Bonus-->0</td> <th><!--Total-->65</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Medicine: Nanomedicine</th> <td><!--Apt-->COG</td> <td><!--Rank-->40</td> <td><!--Base-->60</td> <td><!--Morph-->5</td> <th><!--SubTotal-->65</th> <td><!--Bonus-->0</td> <th><!--Total-->65</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Medicine: Trauma Surgery</th> <td><!--Apt-->COG</td> <td><!--Rank-->40</td> <td><!--Base-->60</td> <td><!--Morph-->5</td> <th><!--SubTotal-->65</th> <td><!--Bonus-->0</td> <th><!--Total-->65</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Networking(Autonomists)</th> <td><!--Apt-->SAV</td> <td><!--Rank-->5</td> <td><!--Base-->50</td> <td><!--Morph-->0</td> <th><!--SubTotal-->50</th> <td><!--Bonus-->0</td> <th><!--Total-->50</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Networking(Criminals)</th> <td><!--Apt-->SAV</td> <td><!--Rank-->35</td> <td><!--Base-->40</td> <td><!--Morph-->0</td> <th><!--SubTotal-->40</th> <td><!--Bonus-->0</td> <th><!--Total-->40</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Networking(Scientists)</th> <td><!--Apt-->SAV</td> <td><!--Rank-->30</td> <td><!--Base-->35</td> <td><!--Morph-->0</td> <th><!--SubTotal-->35</th> <td><!--Bonus-->0</td> <th><!--Total-->35</th> <th><!--Spec--></th>
+			</tr>
+				<th><!--Skill-->Perception</th> <td><!--Apt-->INT</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus--></td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Programming</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Psychosurgery</th> <td><!--Apt-->INT</td> <td><!--Rank-->50</td> <td><!--Base-->70</td> <td><!--Morph-->5</td> <th><!--SubTotal-->75</th> <td><!--Bonus-->0</td> <th><!--Total-->75</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Research</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->60</td> <td><!--Morph-->5</td> <th><!--SubTotal-->65</th> <td><!--Bonus-->0</td> <th><!--Total-->65</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Spray Weapons</th> <td><!--Apt-->COO</td> <td><!--Rank-->25</td> <td><!--Base-->40</td> <td><!--Morph-->0</td> <th><!--SubTotal-->40</th> <td><!--Bonus-->0</td> <th><!--Total-->40</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Unarmed Combat</th> <td><!--Apt-->SOM</td> <td><!--Rank-->30</td> <td><!--Base-->40</td> <td><!--Morph-->10</td> <th><!--SubTotal-->50</th> <td><!--Bonus-->0</td> <th><!--Total-->50</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Academics: Biology</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+						<tr>
+				<th><!--Skill-->Academics: Cognitive Science</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Academics: Genetics</th> <td><!--Apt-->COG</td> <td><!--Rank-->40</td> <td><!--Base-->60</td> <td><!--Morph-->5</td> <th><!--SubTotal-->65</th> <td><!--Bonus-->0</td> <th><!--Total-->65</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Academics: Nanotech</th> <td><!--Apt-->COG</td> <td><!--Rank-->40</td> <td><!--Base-->60</td> <td><!--Morph-->5</td> <th><!--SubTotal-->65</th> <td><!--Bonus-->0</td> <th><!--Total-->65</th> <th><!--Spec--></th>
+			</tr>
+			
+						<tr>
+				<th><!--Skill-->Art: Body Art</th> <td><!--Apt-->INT</td> <td><!--Rank-->20</td> <td><!--Base-->40</td> <td><!--Morph-->5</td> <th><!--SubTotal-->45</th> <td><!--Bonus-->0</td> <th><!--Total-->45</th> <th><!--Spec--></th>
+			</tr>
+			
+						<tr>
+				<th><!--Skill-->Interest: TITANs</th> <td><!--Apt-->COG</td> <td><!--Rank-->15</td> <td><!--Base-->35</td> <td><!--Morph-->5</td> <th><!--SubTotal-->40</th> <td><!--Bonus-->0</td> <th><!--Total-->40</th> <th><!--Spec--></th>
+			</tr>
+						<tr>
+				<th><!--Skill-->Native Language: Czech</th> <td><!--Apt-->INT</td> <td><!--Rank-->0</td> <td><!--Base-->90</td> <td><!--Morph-->5</td> <th><!--SubTotal-->95</th> <td><!--Bonus-->0</td> <th><!--Total-->95</th> <th><!--Spec--></th>
+			</tr>
+									<tr>
+				<th><!--Skill-->Language: English</th> <td><!--Apt-->INT</td> <td><!--Rank-->40</td> <td><!--Base-->60</td> <td><!--Morph-->5</td> <th><!--SubTotal-->65</th> <td><!--Bonus-->0</td> <th><!--Total-->65</th> <th><!--Spec--></th>
+			</tr>
+						<tr>
+				<th><!--Skill-->Profession: Lab Tech</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+						</tr>
+						<tr>
+				<th><!--Skill-->Profession: Physician</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+						</tr>
+						<tr>
+				<th><!--Skill-->Profession: Psychiatrist</th> <td><!--Apt-->COG</td> <td><!--Rank-->30</td> <td><!--Base-->50</td> <td><!--Morph-->5</td> <th><!--SubTotal-->55</th> <td><!--Bonus-->0</td> <th><!--Total-->55</th> <th><!--Spec--></th>
+			</tr>
+			<tr>
+				<th><!--Skill-->Profession: Teacher</th> <td><!--Apt-->COG</td> <td><!--Rank-->1</td> <td><!--Base-->21</td> <td><!--Morph-->5</td> <th><!--SubTotal-->26</th> <td><!--Bonus-->0</td> <th><!--Total-->26</th> <th><!--Spec--></th>
+			</tr>
+		</table>
+		</td>
+		<td>
+		<!--middle of page-->
+		</td>
+		<td valign="top">
+		<!--right half of page-->
+		<table>
+		<tr>
+		<!--attributes-->
+		<td valign="top">
+		<table border="1">
+			<tr>
+				<th></th><th>COG</th> <th>COO</th> <th>INT</th> <th>REF</th> <th>SAV</th> <th>SOM</th> <th>WIL</th>
+			</tr>
+			<tr>
+				<th>BASE</th><th><!--COG-->20</th> <th><!--COO-->15</th> <th><!--INT-->20</th> <th><!--REF-->15</th> <th><!--SAV-->5</th> <th><!--SOM-->10</th> <th><!--WIL-->20</th>
+			</tr>
+			<tr>
+				<th>MORPH</th><th><!--COG-->25</th> <th><!--COO-->15</th> <th><!--INT-->25</th> <th><!--REF-->15</th> <th><!--SAV-->5</th> <th><!--SOM-->20</th> <th><!--WIL-->25</th>
+			</tr>
+		</table>
+		</td> 
+		</tr>
+		<!--sep-->
+		<tr>
+		<td valign="top">
+		<table>
+		</table>
+		</td>
+		</tr>
+		<!--derived att-->
+		<tr>
+		<td valign="top">
+		<table border="1">
+			<tr>
+				<th>MOX</th> <th>TT</th> <th>LUC</th> <th>IR</th> <th>WT</th> <th>DUR</th> <th>DR</th> <th>INIT</th> <th>SPD</th>
+			</tr>
+			<tr>
+				<td>0/2</td><td>-/10</td><td>50</td><td>100</td><td>0/8</td><td>40</td><td>60</td><td>8</td><td>1</td>
+			</tr>
+		</table>
+		</td>
+		</tr>
+		<!--sep-->
+		<tr>
+		<td valign="top">
+		<table>
+		</table>
+		</td>
+		</tr>
+		<!--MUSE-->
+		<tr>
+		<td valign="top">
+		<table border="1">
+			<tr>
+				<th>Eyegore, muse.</th>
+			</tr>
+			<tr>
+				<th>Skill:</th><th>Total:</th>
+			</tr>
+			<tr>
+				<td>Academics: Psychology</td><td>60</td>
+			</tr>
+			<tr>
+				<td>Academics: History</td><td>40</td>
+			</tr>
+			<tr>
+				<td>Art: Cooking</td><td>40</td>
+			</tr>
+			<tr>
+				<td>Hardware: Electronics</td><td>30</td>
+			</tr>
+			<tr>
+				<td>Infosec</td><td>30</td>
+			</tr>
+			<tr>
+				<td>Interest: Exhuman Gangs</td><td>40</td>
+			</tr>
+			<tr>
+				<td>Interface</td><td>40</td>
+			</tr>
+			<tr>
+				<td>Professional: Accounting</td><td>60</td>
+			</tr>
+			<tr>
+				<td>Programming</td><td>20</td>
+			</tr>
+			<tr>
+				<td>Research</td><td>30</td>
+			</tr>
+			<tr>
+				<td>Perception</td><td>30</td>
+			</tr>
+		</table>
+		</td>
+		</tr>
+		<!--sep-->
+		<tr>
+		<td valign="top">
+		<table>
+		</table>
+		</td>
+		</tr>
+		<!--combat stuff-->
+		<tr>
+		<td valign="top">
+		<table border="1">
+			<tr>
+				<th>ARMOR</th>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<th>Unarmed</th>
+			</tr>
+			<tr>
+				<td>DV: 1d10+2</td>
+			</tr>
+		</table>
+		</td>
+		</tr>
+		<!--sep-->
+		<tr>
+		<td valign="top">
+		<table>
+		</table>
+		</td>
+		</tr>
+		<!--other notes--><strong></strong>
+		<tr>
+		<td valign="top">
+		<table border="1">
+
+		</table>
+		</td>
+		</tr>
+		</table>
+		</td>
+		</tr>
+		</table>
+		<p><a href="tom-gm.html">back to Tom</a></p>
+	</body>
+</html>        
