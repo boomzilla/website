@@ -1,5 +1,14 @@
-<html>
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
 <head>
+    <meta charset="UTF-8">
+    <title>GURPS Fallout campaign intro</title>
+	<meta property="og:title" content="campaign summary" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://boomzilla.me/gurps/fo/intro.html" />
+	<meta property="og:image" content="http://boomzilla.me/gurps/fo/vaultad.jpg" />
+	<meta property="og:description" content="campaign intro/summary" />
+	<meta property="og:site_name" content="EP at PFC" />
 	<link rel="stylesheet" href="content.css" type="text/css" />
 </head>
 <body>
@@ -25,7 +34,7 @@
 <h2>Character essentials:</h2>
 <p>Mechanically, you are building 100-point PCs, max 40 points of disadvantages (below-10 attributes count as disads), plus 5 quirks. You will likely be building human Vault 45 residents. If you want to build a non-human vault dweller (ghoul, android, etc), I think I can work you in pretty easily. If you want to build an Outsider who encounters the rest of the party, I <em>might</em> be able to work you in, but it might be a bit harder.</p>
 
-<p>I will write up a more detailed help guide on character creation, and of course we will meet in person on May 1.</p>
+<p><a href="cbasics.html">I will write up a more detailed help guide on character creation here</a>, and of course we will meet in person on May 1.</p>
 
 	<p><a href="rules.html">back to rules root</a></p>
 </body>
