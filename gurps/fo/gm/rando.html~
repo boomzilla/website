@@ -6,6 +6,8 @@
 
 <body>
 
+<p></p>
+
 <table border="1">
 	<tr><th>3d6</th><th>Main Table</th></tr>
 <tr><td>3</td><td><a href="special_encounter.html">Special Encounter</a></td></tr>
@@ -16,7 +18,7 @@
 8 Ruins
 9 Vehicle (junk)
 10 Animals
-<tr><td>11</td><td>Remains</td></tr>
+<tr><td>11</td><td><a href="remains.html">Remains</a></td></tr>
 12 Ruins
 13 Trap or Ambush
 14 Raiders or Slavers
