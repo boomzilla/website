@@ -1,29 +1,18 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>GM ONLY: random tables</title>
+<title>GM ONLY: random loot table</title>
 </head>
 
 <body>
 
 <table border="1">
-	<tr><th>3d6</th><th>Main Table</th></tr>
-<tr><td>3</td><td><a href="special_encounter.html">Special Encounter</a></td></tr>
-4 Moving Vehicle or Ultra-tech Bunker
-5 Small Settlement
-6 Lone Wanderer
-7 Caravan or Wasteland Gang
-8 Ruins
-9 Vehicle (junk)
-10 Animals
+	<tr><th>3d6</th><th>Main Loot Table</th></tr>
+<tr><td>4</td><td><a href="body_amor.html">body armor</a> and <a href="weapon.html">weapon</a></td></tr>
 <tr><td>11</td><td><a href="food.html">food</a></td></tr>
-12 Ruins
-13 Trap or Ambush
-14 Raiders or Slavers
-15 Super Mutants or Cannibals
-16 Fortification
-17 Military Unit or Military Outpost
-18 Special Encounter
+<tr><td>12</td><td><a href="power_sources.html">power sources</a></td></tr>
+<tr><td>13</td><td><a href="bottled_liquid.html">bottled liquid</a></td></tr>
+<tr><td>15</td><td><a href="survival_equip.html">bottled liquid</a></td></tr>
 </table>
 
 <p><a href="./">back to GM root</a><br/></p>

@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>GM ONLY: random body armor loot table</title>
+</head>
+
+<body>
+
+<table border="1">
+	<tr><th>3d6</th><th>Body Armor Table</th></tr>
+<tr><td>15</td><td>pre-war bullet-resistant vest (DR 12)</td></tr>
+</table>
+
+<p><a href="loot_table.html">back to main random loot table</a><br/></p>
+</body>
+</html>
