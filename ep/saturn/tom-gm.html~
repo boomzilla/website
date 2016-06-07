@@ -9,7 +9,7 @@
 		<h3>Name: Tom&#225;&scaron; J&#225;gr ("Doc" and "Novak")</h3>
 		<h3>Age: 32</h3>
 		<h3>Gender ID: male</h3>
-		<h3>present morph: male hyperbright ("Doc"), male Neo-Neanderthal ("Novak")</h3>
+		<h3>present morph: male hyperbright ("Doc"), infomorph fork</h3>
 		<h3>Motivations: +Hyper-Evolution, +Research, +Neurodiversity</h3>
 
 	<h2>Favors/social networking</h2>
@@ -196,7 +196,7 @@
 				<!--Level 5-->OPEN
 			</td>
 			<td>
-				<!--RANK-->0
+				<!--RANK-->2
 			</td>
 			<td>
 				<!--USERS-->Firewall
@@ -321,11 +321,15 @@
 	<h2><a href="../tom00.html">first backup (start of game)</a></h2>
 
 	<hr/>
+	<h2><strong>INFOMORPH stuff</strong></h2>
+	<h2><a href="novak-stats.html">Present Stats (HTML)</a></h2>
+
+	<!--<hr/>
 	<h2><strong>NOVAK stuff</strong></h2>
 	<h2><a href="novak-combat.html">Combat stuff for this character</a></h2>
 	<h2><a href="novak-gear.html">Gear</a></h2>
 	<h2><a href="novak-stats.html">Present Stats (HTML)</a></h2>
-	<h2><a href="novak00.html">Novak 1st backuo (+51 days)</a></h2>
+	<h2><a href="novak00.html">Novak 1st backuo (+51 days)</a></h2>-->
 	
 	<p><a href="./">back to campaign home</a></p>
 	</body>

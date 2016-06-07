@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="UTF-8">
+    <title>Operation WINTERGREEN HAZARD, part 7</title>
+	<meta property="og:title" content="Operation WINTERGREEN HAZARD, part 7" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://boomzilla.me/ep/saturn/20160519.html" />
+	<meta property="og:image" content="http://boomzilla.me/ep/saturn/snowfall_base_med.jpg" />
+	<meta property="og:description" content="The party arrives at Snowfall base on Iapetus" />
+	<meta property="og:site_name" content="EP at PFC" />
+	<link rel="stylesheet" href="gamesummary.css" type="text/css" />
+  </head>
+  <body>
+    <h2>Operation WINTERGREEN HAZARD, part 7</h2>
+	<hr/>
+	<h3>Text Formatting Key:</h3>
+	<p><strong>generally important info</strong><br/>
+	<font color="red">(possible) major NPC</font><br/>
+	<font color="green">minor/incidental NPC</font></p>
+	<hr/>
+	<p>
+		After returning to the "Burning Itch" and undergoing decontamination protocols, we interrogated <major_npc>Zelda Oren</major_npc>. She revealed that the Grey Wolves were presently on Iapetus. They had been evading the blockage by posing as resupply trips for "Snowfall Research", a hypercorp dedicated to studying Iapetus. The Wolves' goal on Iapetus was to recover the egos of people lost during the Fall--they believed copies of many people would be recoverable by drilling into the computational superstructure of Iapetus. They planned to accomplish this using an advanced "stealth" drill (stealthed to prevent its dedection by accoustic means). Finally, when we asked Zelda about the exsurgent activity on Skoll (the maggots, the weird synthmorph), she didn't seem to know what we were talking about: she had been in time-decelerated simulspace for over a week of objective time. 
+	</p>
+	<p>
+		With the new information about the Wolves, and passcodes to evade the blockade, we made our way to Iapetus in a slower fashion (so as not to arose the blockade's suspicions by doing a high-speed burn into orbit): it would take us 16 days to reach our destination from Skoll. During that time, our party did various things to pass the time. <strong>Doc and Novak</strong> merged back into Doc's hyperbright body (they offered the neo-Neanderthal morph to the <major_npc>beta of Proxy Snow</major_npc> for the duration he remained with us). He also began to explore and research via The Eye some more. <strong>Asuramon</strong> got some psychosurgery from Tomas to be able to use his exotic multi-limbed morph better. <strong>Feron</strong> wheeled and dealed, in his roll as an infobroker. <strong>Tien</strong> decided he didn't like Proxy Snow. We also tasks our nanotech CM to make gear. Finally, many of our psychologically traumatized members got psychosurgery-based therapy from Tomas.
+	</p> 
+	<p>
+		When we did get to Iapetus, Tomas made an infomorph alpha of himself to remain in some servers on the "Burning Itch", Tien (as usual) had a copy of him/themselves on the "Ingenious Gentleman", and Proxy Snow and <major_npc>Huginn and Muginn</major_npc> remained orbit-side. The boarding party, meanwhile, consisted of <strong>Tomas, Feron, Tien, Arkos (with drones), and Asuramon</strong>. We were deposited just outside of Snowfall Base by the Ingenious Gentleman doing a "hot drop", that is the "Gentleman" did not actually make contact with the moon, but hovered above it temporarily while everyone jumped out.
+	</p>
+	<p>
+		<a href="snowfall_base.jpg"><img src="./snowfall_base_key.jpg" title="Snowfall Base" align="left"></a>
+		<em>MAP KEY:</em><br/>
+		<em>Bottom of map is side exposed to outside. Red dot is observation tower. Blue dot leads deeper into moon</em>
+	</p>
+	<p>
+		<strong>Snowfall Base</strong> consisteted of a hangar, observation tower, and various connected "tin can" shacks. The exterior lights were on, and not wireless networks from within the base could be detected out here: <strong>Iapetus's quarantine protocol mandated that radio signals from the moon's bases be severely restricted, lest an infection be spread via deep space mesh</strong>.
+	</p>
+	<p>
+		Feron knocked on the personnel airlock, but recieved no response. So we proceeded through the airlock, into the interior (with Tien announcing "House keeping!" upon entry). Nobody was seen immediately after entry. Arkos and Tomas logged onto the mesh, now that we were recieving wireless signals. The mesh UI was very "corporate"/Innser Sys, all slick, very well-produced, a very well-manicured walled garden. The few fabbers (for food) were all heavily DRMed (this was natural for PC fabbers, but here it probably also served the purpose of providing an extra layer of security against being compromised by exsurgent virus or hack attempt). (Besides the food fabbers, there were trash bins scattered around: this was an unusual, archaic sight, since most waste was recycled very soon after it became waste). 
+	</p>
+	<p>
+		Particularly important, Arkos noted there were seven other people on Snowfall's mesh. We queried the mesh logs, and discovered that some of the people had been on the mesh for 26 days, doing routine stuff like gaming; the sort of activities one does while waiting/bored. Arkos also pulled up a rudimentary map of the base. Finally, it seemed all the out-of-base mesh traffic was routed through data bursts via the observation tower. (again, the reason for being so restrictive with outbound mesh traffic being the concern an exsurgent infection could spread itself). 
+	</p>
+	<p>
+		We proceeded into the hangar, and observed a truck/rover that was used to transport people and materials between bases. We decided to take an aggressive posture at this point, making plans, on the fly, to forcibly secure the tower and the hangar (the two main points of the base's personnel escaping and/or signalling for help). 
+	</p>
+	<p>
+		As we set up (both ourselves into tactical positions, and a few hyperthermite changes), we recieved a mesh message from one "Ahmet" (likely belonging to one "Ahmet Kahraman", a pilot and social networker for the Wolves), demanding to know what we were doing. 
+	</p>
+	<p>party recieved:
+		<ul>
+			<li>+4 rez per player</li>
+		</ul>
+	</p>
+	<p><strong>+~67 days post-start</strong></p>
+	<p><a href="./">back to campaign home</a></p>
+  </body>
+</html>
