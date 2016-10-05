@@ -9,6 +9,7 @@ var JAMES = "<title>:=<zzz> : <zzz>|<zzz>\n" + \
 "<adj>:=real|literary|imagined|cultural|evolutionary|social|forbidden|sustainable\n";
 
 function parse_grammar(grammar){
+	document.write(grammar);
 	var str_array = grammar.split("\n");
 	var dictionary = {};
 	var line;
